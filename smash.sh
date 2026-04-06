@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#yes this is vibecoded, I regret nothing.
 OUTPUT="happ_config.txt"
 # Your custom Base64 title
 TITLE_B64="aSBiZWxpdmUgaSBjYW4gZGllIHdpdGhvdXQgbXkgYnJvd3NlciBrbm93aW5nLg=="
